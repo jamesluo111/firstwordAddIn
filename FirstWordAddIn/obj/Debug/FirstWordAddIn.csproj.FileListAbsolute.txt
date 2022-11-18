@@ -1,0 +1,12 @@
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\bin\Debug\FirstWordAddIn.dll
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\bin\Debug\FirstWordAddIn.pdb
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\bin\Debug\FirstWordAddIn.dll.manifest
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\bin\Debug\FirstWordAddIn.vsto
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.AssemblyReference.cache
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.Properties.Resources.resources
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.GenerateResource.cache
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.CoreCompileInputs.cache
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.CopyComplete
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.dll
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.pdb
