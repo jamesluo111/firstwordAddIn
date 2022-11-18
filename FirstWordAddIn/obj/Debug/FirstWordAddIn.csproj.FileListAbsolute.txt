@@ -10,3 +10,4 @@ D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.CoreC
 D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.csproj.CopyComplete
 D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.dll
 D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.pdb
+D:\vsto\word\FirstWordAddIn\FirstWordAddIn\obj\Debug\FirstWordAddIn.Ribbon1.resources
